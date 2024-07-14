@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/protfolio-reactjs/static/css/main.a121d322.css",
+    "main.js": "/protfolio-reactjs/static/js/main.07c5b69a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/protfolio-reactjs/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/protfolio-reactjs/static/js/787.1ed0c42c.chunk.js",
+    "static/media/sandip_eventBridge.pdf": "/protfolio-reactjs/static/media/sandip_eventBridge.fd79ba55588d1812db33.pdf",
+    "static/media/leaf.png": "/protfolio-reactjs/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/protfolio-reactjs/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/protfolio-reactjs/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/protfolio-reactjs/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/MAHATOSandip052023Edits.pdf": "/protfolio-reactjs/static/media/MAHATOSandip052023Edits.aa9b6377f79e1f9e8f57.pdf",
+    "static/media/blog.png": "/protfolio-reactjs/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/protfolio-reactjs/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/protfolio-reactjs/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/eventBridge.png": "/protfolio-reactjs/static/media/eventBridge.c0a4a55dfffef3df7d02.png",
+    "static/media/chatify.png": "/protfolio-reactjs/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/protfolio-reactjs/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/sm-logo.jpeg": "/protfolio-reactjs/static/media/sm-logo.8408d96b8fc0c727974d.jpeg",
+    "static/media/avatar.svg": "/protfolio-reactjs/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/protfolio-reactjs/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/protfolio-reactjs/index.html",
+    "main.a121d322.css.map": "/protfolio-reactjs/static/css/main.a121d322.css.map",
+    "main.07c5b69a.js.map": "/protfolio-reactjs/static/js/main.07c5b69a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/protfolio-reactjs/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/protfolio-reactjs/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a121d322.css",
+    "static/js/main.07c5b69a.js"
+  ]
+}
